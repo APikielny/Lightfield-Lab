@@ -53,8 +53,6 @@ def epiAverageStacked(epiImage):
 # plt.imshow(avg / 255)
 # plt.show()
 
-# yangyuegly
-
 ####
 # visualize epi lines sequentially
 # ROWS = 473
